@@ -1,0 +1,23 @@
+.title{
+    color: rgb(7, 7, 151);
+    margin: 10px;
+}
+.Ab_container hr{
+    height: 2px;
+    width: 130vh;
+    margin: 3vh;
+    border: 1px;
+    border-radius: 50%;
+    background: rgb(192, 8, 8);
+}
+.para{
+    color: rgb(15, 4, 121);
+    margin:20px;
+    font-size: 20px;
+    opacity: 1;
+    animation: fade 3s linear;
+}
+@keyframes fade {
+    0% { opacity: 0 }
+    100% { opacity: 1 }
+  }

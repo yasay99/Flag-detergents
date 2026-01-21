@@ -1,0 +1,21 @@
+ .Last{
+    margin-top: none;
+    list-style-type: none;
+    background-color: rgb(235, 234, 234);
+    padding-top: 10px;
+    overflow: hidden;
+    height: 100px;
+    width: 100%;
+    box-shadow: 0 30px 30px rgba(0,0,0,0.1);
+ }
+ .Secc-tit{
+   color: black;
+   font-weight: bold;
+   font-size: large;
+   margin-left: 10px;
+}
+.FF-para{
+   color:black;
+   margin: 5px;
+   font-size: smaller;
+}

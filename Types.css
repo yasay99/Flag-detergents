@@ -1,0 +1,47 @@
+.container {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.imagesz {
+  border-radius: 8px;
+  margin: 0;
+  height: auto;
+  width: 20%;
+}
+/* .Window-img{
+    border-radius: 8px;
+    margin: 0;
+    height: 50vh;
+    width: 100%;
+    background-image: url(./Window.jpg);
+} */
+.paraa {
+  max-width: 500px;
+  font-size: 20px;
+  opacity: 1;
+  color: black;
+  font-weight: bold;
+  animation: fade 3s linear;
+}
+@keyframes fade {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.Ty_container hr {
+  height: 2px;
+  width: 130vh;
+  margin: 3vh;
+  border: 1px;
+  border-radius: 50%;
+  background: rgb(192, 8, 8);
+}
+.title {
+  color: rgb(7, 7, 151);
+  margin: 10px;
+  margin-top: 20px;
+}

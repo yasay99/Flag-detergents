@@ -1,0 +1,49 @@
+.steps p{
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    display: block;
+    color:rgb(168, 14, 14)
+}
+.paraa{
+    margin: 10px;
+    padding-right:50px;
+}
+.titlee{
+    font-size: 30px;
+    color: rgb(7, 7, 151);
+    margin: 10px;
+    margin-top: none;
+    margin-bottom: auto;
+}
+.B-title{
+    display: flex;
+    justify-self: center;
+    color: rgb(168, 14, 14);
+}
+.fl{
+    font-size: 30px;
+    color: rgb(7, 7, 151);
+    margin: 10px;
+    margin-left:90px ;
+    margin-top: none;
+    margin-bottom: auto;
+}
+.fll{
+    font-size: 30px;
+    color: rgb(7, 7, 151);
+    margin: 10px;
+    margin-left:150px ;
+    margin-top: none;
+    margin-bottom: auto;
+}
+.Hr {
+  height: 2px;
+  width: 130vh;
+  margin: 3vh;
+  border: 1px;
+  border-radius: 50%;
+  background: rgb(192, 8, 8);
+}
